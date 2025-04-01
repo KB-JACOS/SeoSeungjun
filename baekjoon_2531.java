@@ -13,7 +13,7 @@ import java.io.*;
  * N = 30000길이의 배열을 K개만큼 순회하기 때문에 O(N*K) = 90,000,000 이므로 1초내 탐색 가능
  */
 
-public class Main {
+public class baekjoon_2531 {
     
 
     public static void main(String args[]) throws Exception{
