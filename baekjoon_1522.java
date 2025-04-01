@@ -14,7 +14,7 @@ ab[aba] 구간에서는 b가 1개 이므로 1
 이 값중 최소 값은 1임
  */
 
-public class Main {
+public class baekjoon_1522 {
     
 
     public static void main(String args[]) throws Exception{
