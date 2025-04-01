@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_1406 {
 
     private static int cursor;
     private static Stack<Character> left = new Stack<Character>();
