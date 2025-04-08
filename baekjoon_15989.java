@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main {
+public class baekjoon_15989 {
 	static int N, M;
 	static StringBuilder sb;
 
