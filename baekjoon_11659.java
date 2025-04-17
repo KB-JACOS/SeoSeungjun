@@ -6,7 +6,7 @@ import java.util.*;
  * <baekjoon_11659> -   구간합 구하기 4
  * 부분합 문제
  */
-public class Main {
+public class baekjoon_11659 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
