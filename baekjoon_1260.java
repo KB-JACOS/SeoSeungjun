@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class Main {
+public class baekjoon_1260 {
 
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
