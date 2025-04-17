@@ -16,7 +16,7 @@ import java.io.*;
     그렇게 되면 최대 O(100000) 이므로 시간내에 탐색 가능하다
     
  */
-public class Main {
+public class baekjoon_11697 {
 
     static Queue<int[]> queue = new LinkedList<>();
     static boolean[] visited = new boolean[100001];
