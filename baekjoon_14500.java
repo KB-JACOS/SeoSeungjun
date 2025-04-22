@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_14500 {
     static int N, M, result;
     static int[][] map;
     static int[] dy = {-1, 1, 0, 0};
