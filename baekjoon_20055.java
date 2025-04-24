@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main  {
+public class baekjoon_20055  {
     static Queue<char[]> queue = new LinkedList<>();
     
     static int N, K;
