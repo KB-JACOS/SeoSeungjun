@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class baekjoon_2178
+public class baekjoon_2178 {
 
     static int N, M, MIN=Integer.MAX_VALUE;
     static boolean[][] map, visited;
