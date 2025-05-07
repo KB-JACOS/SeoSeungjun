@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_2800 {
     
     static ArrayList<int[]> bracketSet = new ArrayList<>();
     static String exp;
