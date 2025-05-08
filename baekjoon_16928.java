@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_16928 {
     static int[] ladder = new int[101], snake = new int[101];
     static boolean[] visited = new boolean[101];
 
