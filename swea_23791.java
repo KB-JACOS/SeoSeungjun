@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class swea_23791 {
 	public static void main(String args[]) throws Exception {
     
         Scanner sc = new Scanner(System.in); 
