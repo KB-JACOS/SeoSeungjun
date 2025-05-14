@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.util.*;
-class Solution {
+class swea_24001 {
     
     static int distance = 0, max = 0;
    public static void main(String args[]) throws Exception {
