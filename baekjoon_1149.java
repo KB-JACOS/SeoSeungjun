@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_1149 {
 
     final static int R = 0, G = 1, B = 2;
     static int[][] dp;
