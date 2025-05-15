@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class baekjoon_15652 {
     static int M, N;
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
