@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class baekjoon_15649 {
 
     static boolean[] visited;
     static int M, N;
