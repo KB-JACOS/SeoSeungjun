@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class baekjoon_15650 {
 
     static Set<String> set= new HashSet<>();
     static int M, N;
