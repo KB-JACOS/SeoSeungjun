@@ -24,7 +24,6 @@ class Main {
 
 
     public static void recur(boolean[] arr, int depth) throws Exception {
-        // System.out.println(Arrays.toString(arr));
         if(depth == M) {
             print(arr);
         }
