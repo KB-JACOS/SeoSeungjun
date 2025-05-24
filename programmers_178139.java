@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_178139 {
     
     int[] dx = {0, 0, -1, 1}, dy = {-1, 1, 0 ,0}; // 상하좌우
     
