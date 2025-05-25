@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_176054 {
     
     boolean[][] graph; 
     int n, max = Integer.MIN_VALUE;
