@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_64062 {
     int max = Integer.MIN_VALUE, maxIndex = 0;
     public int solution(int[] stones, int k) {
         int answer = 0;
