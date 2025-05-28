@@ -1,4 +1,4 @@
-class Solution {
+class leetcode_841 {
     boolean[] visited;
     int cnt = 0;
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
