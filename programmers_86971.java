@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_86971 {
     
     boolean[] visited; 
     List<List<Integer>> tree;
