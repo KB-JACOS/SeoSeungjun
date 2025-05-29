@@ -4,7 +4,7 @@ import java.util.*;
 Queue에 신발 사용여부도 추가 
 	*/ 
 
-class Solution {
+class programmers_121690 {
     
     int[] dc = {0, 0, -1, 1, 0, 0, -2, 2}, dr = {-1, 1, 0, 0, -2, 2, 0, 0}; // 상하좌우
     boolean[][] holes;
