@@ -1,4 +1,4 @@
-class Solution {
+class programmers_176053 {
     
     boolean[] visited;
     int cnt = 0;
