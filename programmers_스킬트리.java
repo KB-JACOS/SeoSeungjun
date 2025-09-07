@@ -1,4 +1,4 @@
-class programmers_ {
+class programmers_스킬트리 {
     
     /**
      * 프로그래머스 - 스킬트리
