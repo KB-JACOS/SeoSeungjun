@@ -1,4 +1,4 @@
-class Solution {
+class leetcode_77 {
 
     List<List<Integer>> result =  new ArrayList<>();
 
