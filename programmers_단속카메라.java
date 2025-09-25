@@ -1,6 +1,6 @@
 import java.util.*; 
 
-class Solution {
+class programmers_단속카메라 {
     public int solution(int[][] routes) {
         
         Arrays.sort(routes, (o1, o2) ->  Integer.compare(o1[0], o2[0]) );
