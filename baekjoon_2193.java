@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main {
+public class baekjoon_2193 {
 
     static Long[][] dp; //[level][root]
     public static void main(String[] args) throws Exception {
