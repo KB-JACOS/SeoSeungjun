@@ -7,7 +7,7 @@ import java.util.*;
     가입자가 같으면 가장 많이 팔린 조합을 찾는다.
 */
 
-class Solution {
+class programmers_이모티콘_할인행사 {
 
     int maxSubscriber, maxProfit;
     HashSet<String> hashSet = new HashSet<>(); 
