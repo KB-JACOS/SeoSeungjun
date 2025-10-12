@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_2169 {
     
     static long[][] memo = new long[31][31];
     static final int LEFT = 0, RIGHT = 1, DOWN = 2;
