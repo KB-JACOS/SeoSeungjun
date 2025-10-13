@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_4811 {
     
     static long[][] memo = new long[31][31];
 
