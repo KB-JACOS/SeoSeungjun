@@ -1,5 +1,5 @@
 
-class Solution {
+class programmers_표현_가능한_이진트리 {
     public int[] solution(long[] numbers) {
         int[] answer = new int[numbers.length];
         
