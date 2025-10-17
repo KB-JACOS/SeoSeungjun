@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_7869 {
 
 
     private static int CROSS = 0; 
