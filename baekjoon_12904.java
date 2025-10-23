@@ -19,6 +19,5 @@ public class baekjoon_12904 {
         }
 
         System.out.println(t.toString().equals(s.toString()) ? 1 : 0);
-)
     }
 }
