@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_2473 {
 
     static long[] liquid;
     static long MIN = Long.MAX_VALUE;
