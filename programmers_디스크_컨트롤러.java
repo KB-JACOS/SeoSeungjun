@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_디스크_컨트롤러 {
     public int solution(int[][] jobs) {
 
         Queue<Disk> pq = new PriorityQueue<Disk>((o1, o2) -> o1.time - o2.time);
