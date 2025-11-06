@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_4195 {
     static int[] parent;
     static int[] size;
 
