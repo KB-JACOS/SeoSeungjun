@@ -1,7 +1,7 @@
     import java.util.*;
     import java.io.*;
 
-    public class Main {
+    public class baekjoon_4485 {
 
         static int[] dr = {-1, 1, 0, 0}, dc = {0, 0, -1, 1}; // 상 하 좌 우
         static int R, C, result = 0;
