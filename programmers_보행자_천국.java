@@ -1,4 +1,4 @@
-class Solution {
+class programmers_보행자_천국 {
     int MOD = 20170805;
     int M, N;
     int[][] map;
