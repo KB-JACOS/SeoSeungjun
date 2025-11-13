@@ -1,6 +1,6 @@
 import java.util.*; 
 
-class Solution {
+class programmers_수레_움직이기 {
     
     final int redStart = 1, blueStart = 2, redStop = 3, blueStop = 4;
     int[][] map, index = new int[5][2];
