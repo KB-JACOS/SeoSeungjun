@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_자동완성 {
     public int solution(String[] words) {
         Arrays.sort(words); 
         
