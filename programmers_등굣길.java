@@ -1,4 +1,4 @@
-class Solution {
+class programmers_등굣길 {
     public int solution(int m, int n, int[][] puddles) {
         
         boolean[][] isPuddle = new boolean[n+1][m+1];
