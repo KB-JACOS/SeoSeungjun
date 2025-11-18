@@ -1,4 +1,4 @@
-class Solution {
+class programmers_신규_아이디_추천 {
     
     public String solution(String new_id) {
         
