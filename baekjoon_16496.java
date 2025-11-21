@@ -2,7 +2,7 @@
     import java.io.*;
 import java.math.BigDecimal;
 
-    public class Main {
+    public class baekjoon_16496 {
 
         public static void main(String[] args) throws Exception {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
