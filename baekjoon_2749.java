@@ -1,6 +1,7 @@
 
 import java.io.*;
 
+public class baekjoon_2749 {
 static long[] fibo;
     static final int pisano = 15 * 100000;
 
@@ -17,3 +18,4 @@ static long[] fibo;
         }
         System.out.println(fibo[(int) N]);
     }
+}
