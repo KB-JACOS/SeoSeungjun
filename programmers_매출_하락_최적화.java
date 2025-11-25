@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_매출_하락_최적화 {
 
     int[][] dp;
     List<Integer>[] graph;
