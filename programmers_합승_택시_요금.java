@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class programmers_합승_택시_요금 {
     
     public int solution(int n, int s, int a, int b, int[][] fares) {
         List<List<Edge>> graph = new ArrayList<>(n);
