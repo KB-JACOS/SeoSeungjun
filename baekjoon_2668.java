@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_2668 {
     static int N, M;
     static boolean[] used;
 
