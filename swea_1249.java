@@ -3,7 +3,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class Solution {
+public class swea_1249 {
 	
 	static int U=0, D=1, L=2, R=3;
 	
