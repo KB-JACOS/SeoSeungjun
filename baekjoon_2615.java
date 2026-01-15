@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_2615 {
     
 	static int N = 19;
 	static final int B = 1, W = 2; 
