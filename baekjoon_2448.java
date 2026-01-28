@@ -1,7 +1,7 @@
     import java.util.*;
     import java.io.*;
 
-    public class Main {
+    public class baekjoon_2448 {
         public static List<Integer> list = new ArrayList<>();
         public static boolean flag;
         public static boolean[] visited;
