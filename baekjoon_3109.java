@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baekjoon_3109 {
 	
 	static final int X = 1;
 	static int R, C;
