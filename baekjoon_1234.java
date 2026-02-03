@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class baekjoon_1234 {
     static int N, R, G, B;
     static long[][][][] dp = new long[11][101][101][101];
     static long[] fact = new long[11];
