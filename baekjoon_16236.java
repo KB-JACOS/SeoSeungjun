@@ -60,9 +60,6 @@ public class baekjoon_16236 {
             map[fr][fc] = 0;
             fish.remove(fIdx);
             cnt+= fd;
-            
-            // System.out.println(" + " + fd);
-            // print("next");
         }
 
         System.out.println(cnt);
@@ -123,7 +120,6 @@ public class baekjoon_16236 {
     static int[] dr = {-1, 1, 0, 0}, dc = {0, 0, -1, 1};
     public static int getDistance(int[] src, int[] dst) {
         
-        // System.out.printf("sr=%d src=%d fr=%d fd=%d\n", src[0], src[1], dst[0], dst[1]);
         Queue<int[]> queue = new LinkedList<>();
         boolean[][] visited = new boolean[N][N];
 
@@ -150,27 +146,11 @@ public class baekjoon_16236 {
                     return w + 1;
                 }
 
-                // System.out.printf("nr=%d nc=%d \n", nr, nc);
                 visited[nr][nc]= true;
                 queue.add(new int[]{nr, nc, w+1});
             }
         }
 
         return -1;
-    }
-
-    public static void print(String msg) {
-
-        System.out.printf("=== %s ===\n", msg);
-        for(int i=0;i<N;i++) {
-            
-            for(int j=0;j<N;j++) {
-                System.out.print(map[i][j] + " ");
-            }
-            System.out.println();
-        }
-        System.out.printf("==========\n", msg);
-        System.out.println();
-
     }
 }
