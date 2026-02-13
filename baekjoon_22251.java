@@ -29,7 +29,7 @@ public class baekjoon_22251 {
         int P = Integer.parseInt(st.nextToken());
         int X = Integer.parseInt(st.nextToken());
 
-        // 1. 7비트 변환
+        // 7비트 변환
         for(int i=0;i<10;i++) {
             int n = 0;
             for(int j=0;j<7;j++) {
@@ -57,7 +57,7 @@ public class baekjoon_22251 {
 
                 diff += Integer.bitCount(nums[d1] ^ nums[d2]);
 
-                if(diff > P) break; // 🔥 가지치기
+                if(diff > P) break; 
 
                 a /= 10;
                 b /= 10;
