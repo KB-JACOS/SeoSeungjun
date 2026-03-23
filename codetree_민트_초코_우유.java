@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class codetree_민트_초코_우유 {
 
     static final int T = 1, C = 2, M = 3, CM = 4, TM = 5, TC = 6, TCM = 7;
 
